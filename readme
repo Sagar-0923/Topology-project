@@ -1,0 +1,8 @@
+to run hydrogenAtom.raw, marschner_lobb_41x41x41_uint8.raw use "topo.py" and give c value big so that running problem does not arise.
+(dimensions of hydrogenAtom.raw are 128x128x128
+dimensions of marschner_lobb_41x41x41_uint8.raw are 41x41x41)
+
+to run Tangle_20.txt use topo1.py give c value big so that running problem does not arise.
+(dimensions of Tangle_20.txt are 20x20x20)
+
+
